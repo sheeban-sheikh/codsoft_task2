@@ -21,7 +21,7 @@ Clone the repository (if applicable) or download the script.
 Make sure you have Python installed (Python 3 recommended).
 
 Run the script using the following command:
-python calculator.py
+python task2.py
 Follow the on-screen instructions to perform calculations.
 
 📌 Technologies Used
