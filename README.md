@@ -21,17 +21,11 @@ Clone the repository (if applicable) or download the script.
 Make sure you have Python installed (Python 3 recommended).
 
 Run the script using the following command:
-
-bash
-Copy
-Edit
 python calculator.py
 Follow the on-screen instructions to perform calculations.
 
 📌 Technologies Used
 Python 🐍
-📷 Screenshot (Optional)
-Add a screenshot of your calculator in action.
 
 📜 License
 This project is open-source and free to use.
